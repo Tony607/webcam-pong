@@ -1,0 +1,12 @@
+node_modules
+dist/*
+!dist/serveDenseNet
+!dist/serveMobileNet
+!dist/serveNet
+.cache
+yarn-error.log
+*.tgz
+*-ubyte
+*.pyc
+.yalc
+.DS_STORE
